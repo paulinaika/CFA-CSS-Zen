@@ -1,0 +1,193 @@
+
+html {
+  margin: 10px;
+  padding: 0;
+}
+
+header {
+  background: url(https://s-media-cache-ak0.pinimg.com/originals/4f/19/8e/4f198e7e0a4093a6b80fd8d7cee00a45.jpg) no-repeat top left;
+  width:absolute;
+  height:absolute;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 30% 100%;
+  padding: 20px;
+}
+
+body {
+
+  background-color: #f2f4f7;
+  font-family: "Courier";
+  font-size: 14px;
+}
+
+
+p{
+  line-height: 180%
+}
+
+.preamble p::first-letter {
+  display:block;
+  float:left;
+  font-size: 180%;
+}
+
+#zen-supporting p::first-letter {
+  display:block;
+  float:left;
+  font-size: 180%;
+}
+
+
+h1 {
+  font-size: 60px;
+  font-family: "Rockwell Extra Bold";
+  text-align: center;
+  line-height: 3;
+  color: #ffffff;
+  text-shadow: 5px 5px #000000;
+
+}
+
+h2 {
+  font-family: "Verdana";
+  font-size: 25px;
+  text-align: center;
+  line-height: 1;
+  color: #ffffff;
+  text-shadow: 3px 3px #000000;
+}
+
+h3 {
+  font-size: 18px;
+  text-align: center;
+  font-family: "Chalkduster";
+}
+
+.summary {
+  background: url(https://s-media-cache-ak0.pinimg.com/736x/c4/a9/4a/c4a94aa8c9ec2bfe5394274ef5ef3700.jpg);
+  opacity: 0.9;
+  margin: 20px 5px 20px 5px;
+  padding: 20px;
+  border-radius: 30px;
+  text-align: center;
+}
+
+
+.preamble {
+    background: url(http://cdn.shopify.com/s/files/1/0153/0623/products/Faux_Wood_Wallpaper_in_Soft_Grey_design_by_BD_Wall_8657fc6e-0630-4692-bd52-8f8c87854df7_grande.png?v=1416870833);
+    /*background-blend-mode: screen;*/
+
+    opacity: 0.9;
+    margin: 10px 180px 10px 10px;
+    padding: 20px;
+    /*background-color: #bcecf2;*/
+    border-radius: 30px;
+    color: #4a0796;
+
+
+}
+.explanation {
+  background: url(http://cdn.shopify.com/s/files/1/0153/0623/products/Faux_Wood_Wallpaper_in_Soft_Grey_design_by_BD_Wall_8657fc6e-0630-4692-bd52-8f8c87854df7_grande.png?v=1416870833);
+    /*background-blend-mode: screen;*/
+    opacity: 0.9;
+    background-size: 100%;
+    margin: 10px 180px 10px 10px;
+    padding: 20px;
+    /*background-color: #bcecf2;*/
+    border-radius: 30px;
+    color: #a01152;
+
+}
+
+.participation {
+  background: url(http://cdn.shopify.com/s/files/1/0153/0623/products/Faux_Wood_Wallpaper_in_Soft_Grey_design_by_BD_Wall_8657fc6e-0630-4692-bd52-8f8c87854df7_grande.png?v=1416870833);
+    /*background-blend-mode: screen;*/
+    opacity: 0.9;
+    margin: 10px 180px 10px 10px;
+    padding: 20px;
+    /*background-color: #bcecf2;*/
+    border-radius: 30px;
+    color: #c6690b;
+
+}
+
+
+.benefits {
+    background: url(http://cdn.shopify.com/s/files/1/0153/0623/products/Faux_Wood_Wallpaper_in_Soft_Grey_design_by_BD_Wall_8657fc6e-0630-4692-bd52-8f8c87854df7_grande.png?v=1416870833);
+    /*background-blend-mode: screen;*/
+    opacity: 0.9;
+    margin: 10px 180px 10px 10px;
+    padding: 20px;
+    /*background-color: #bcecf2;*/
+    border-radius: 30px;
+    color: #225900;
+
+}
+
+.requirements {
+    background: url(http://cdn.shopify.com/s/files/1/0153/0623/products/Faux_Wood_Wallpaper_in_Soft_Grey_design_by_BD_Wall_8657fc6e-0630-4692-bd52-8f8c87854df7_grande.png?v=1416870833);
+    /*background-blend-mode: screen;*/
+    opacity: 0.9;
+    margin: 10px 180px 10px 10px;
+    padding: 20px;
+    /*background-color: #bcecf2;*/
+    border-radius: 30px;
+    color: #030e54;
+}
+
+.sidebar {
+	margin-left: 600px;
+	position: absolute;
+	top: 2px;
+	right: 5px;
+	}
+
+.sidebar .wrapper {
+	font-family: Arial;
+  font-size: 10px;
+  /*background-color: #4d5268;*/
+  background: url(https://images.lowes.ca/img/x/18749/r1878.jpg);
+  background-size: 100%;
+  padding: 10px;
+	margin: 580px 20px 0 0;
+	width: 130px;
+  border-radius: 10px;
+
+	}
+
+a {
+  color: #40506d;
+  text-decoration: none;
+}
+
+.sidebar ul {
+	margin: 10px;
+  padding: 0;
+	}
+
+.sidebar li {
+	line-height: 15px;
+  color: #000000;
+  }
+
+.sidebar li a:link {
+	color: #000000;
+	}
+
+.sidebar li a:visited {
+	color: #445677;
+	}
+
+  footer {
+  	text-align: center;
+  	}
+
+  footer a:link {
+    color: #000000
+  }
+
+  footer a:visited
+    color: #313447
+  	}
